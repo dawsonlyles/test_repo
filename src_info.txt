@@ -1,0 +1,2 @@
+(this is a message from the local main branch)
+add another message to src_info.txt
